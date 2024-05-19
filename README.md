@@ -1,4 +1,4 @@
-# Project 1: Student Spending
+# Project: Student Spending
 
 The dataset contains information describing the spending habits of 1000 students of a school. 
 
